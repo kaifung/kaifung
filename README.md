@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Portfolio](dylantam.dev)
 pushing the boundaries of technology and design
